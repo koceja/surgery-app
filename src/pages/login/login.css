@@ -1,0 +1,42 @@
+.login-container {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20vh;
+    text-align: center;
+
+}
+
+.login-title {
+    font-weight: bold;
+    font-size: 1.3em;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.login-input {
+    padding: 5px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.login-input-label {
+    font-size: 0.8em;
+    color: gray;
+    text-align: left;
+}
+
+.login-input input {
+    
+    width: 200px;
+}
+
+.login-buttons {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.login-buttons button {
+    width: 200px;
+}

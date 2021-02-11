@@ -1,0 +1,49 @@
+.content-container {
+    max-width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    /* min-height: 85vh; */
+}
+
+.header-container {
+    height: 5vh;
+    max-width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: right;
+    
+}
+
+.header {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    margin-left: auto;
+    justify-content: right;
+}
+
+.logout-button {
+    width: 100%;
+    text-align:right;
+    padding-right: 20px;
+}
+
+.logout-button-text {
+
+    cursor: pointer;
+}
+
+.logout-button-text:hover {
+    color: #4d4d4d;
+}
+
+.footer {
+    height: 10vh;
+    background-color: blue;
+    max-width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
